@@ -26,9 +26,6 @@ I’m a **final-year software development student** passionate about building ap
 
 ![Tatenda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tatendacodespace&show_icons=true&theme=dark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatendacodespace&layout=compact&theme=dark)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tatendacodespace&theme=github-compact)
-
-
 
 ## 🌍 Get in Touch:
 - 📧 **Email**: [tatendamidzi49@gmail.com]
