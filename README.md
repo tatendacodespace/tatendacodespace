@@ -3,9 +3,9 @@
 I’m a **final-year software development student** passionate about building applications that make a difference. Currently diving deep into **backend development** with **Java** and **C#**, I aim to leverage my skills to create impactful and scalable solutions.
 
 ## 🔧 Technologies & Tools I Use:
-- **Languages**: Java, C#, JavaScript, HTML, CSS, PHP
-- **Frameworks**: ASP.NET Core MVC, Flutter, React Native
-- **Databases**: MySQL, PostgreSQL, Oracle
+- **Languages**: Java, C#, JavaScript, HTML, CSS,
+- **Frameworks**: ASP.NET Core MVC, Spring Boot
+- **Databases**: MySQL, Oracle
 - **Tools**: Visual Studio, Android Studio, Git, GitHub, VS Code
 
 ## 🚀 Current Projects:
@@ -30,6 +30,8 @@ I’m a **final-year software development student** passionate about building ap
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-5C2D91?style=flat&logo=dotnet&logoColor=white)
+
 
 
 ## Fun Facts About Me:
