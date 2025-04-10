@@ -10,7 +10,7 @@ I’m a **final-year software development student** passionate about building ap
 
 ## 🚀 Current Projects:
 - **Expense Tracker App** (Kotlin, Android Studio)
-- **Personal Potfolio** (ASP.NET Core MVC)
+- **Personal Potfolio** (HTML, CSS JavaScript)
 - **Ecommerce store** (HTML, CSS, JavaScript, SpringBoot)
 
 ## 📈 GitHub Stats
