@@ -23,7 +23,6 @@ I’m a **final-year software development student** passionate about building ap
 ![Tatenda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tatendacodespace&show_icons=true&theme=dark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatendacodespace&layout=compact&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=tatendacodespace&theme=dark)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tatendacodespace&theme=darkhub&row=1&column=6)
 
 
 ## 🌍 Get in Touch:
