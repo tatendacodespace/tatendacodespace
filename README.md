@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Konnichiwa+%F0%9F%91%8B;I+love+building+cool+apps+with+code;Anime+fan+and+code+ninja+%F0%9F%A4%AB;Let's+connect+%F0%9F%91%80" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Yo, I'm Tatenda 👋</h1>
+<h1 align="center">Yooo, I'm Tatenda 👋</h1>
 <p align="center">
-  🧑‍💻 Software Developer | 🎓 Final-Year Student | 🥷 Aspiring Code Ninja
+  🧑‍💻 Software Developer | 🎓 Final-Year Student 
 </p>
 
 I’m a **final-year software development student** passionate about building applications that make a difference. Currently diving deep into **backend development** with **Java** and **C#**, I aim to leverage my skills to create impactful and scalable solutions.
