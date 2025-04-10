@@ -30,7 +30,23 @@ I’m a **final-year software development student** passionate about building ap
 - 🌐 **Portfolio**: [https://tatendacodespace.github.io/Personal-Potfolio/]
 
 
-<img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width="100%" />
+### 🧠 Fun Facts About Me
+
+- 🌸 I love watching anime — Naruto, AOT, Death Note, you name it!
+- 🎮 I’m also into gaming when I’m not coding.
+- 💡 I think anime inspires great story-driven apps.  
+- 🧱 Building software feels like crafting a jutsu.
+- ☕ I survive on coffee and shōnen energy.
+![Anime Lover](https://img.shields.io/badge/I_%E2%9D%A4_Anime-E10098?style=for-the-badge&logo=Crunchyroll&logoColor=white)
+![Always Learning](https://img.shields.io/badge/Always-Learning-FFCE00?style=for-the-badge&logo=Coursera&logoColor=black)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Konnichiwa+%F0%9F%91%8B;I+love+building+cool+apps+with+code;Anime+fan+and+code+ninja+%F0%9F%A4%AB;Let's+connect+%F0%9F%91%80" alt="Typing SVG" />
+</p>
+### 📺 Currently Watching
+- 🔥 **Jujutsu Kaisen S2**
+- 👺 **Demon Slayer: Hashira Training Arc**
+- 🤖 Rewatching **Steins;Gate**
+
 
 
 
