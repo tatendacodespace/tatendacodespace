@@ -3,7 +3,7 @@
 I’m a **final-year software development student** passionate about building applications that make a difference. Currently diving deep into **backend development** with **Java** and **C#**, I aim to leverage my skills to create impactful and scalable solutions.
 
 ## 🔧 Technologies & Tools I Use:
-- **Languages**: Java, C#, JavaScript, HTML, CSS,
+- **Languages**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 - **Frameworks**: ASP.NET Core MVC, Spring Boot
 - **Databases**: MySQL, Oracle
 - **Tools**: Visual Studio, Android Studio, Git, GitHub, VS Code
