@@ -22,7 +22,6 @@ I’m a **final-year software development student** passionate about building ap
 
 ![Tatenda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tatendacodespace&show_icons=true&theme=dark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatendacodespace&layout=compact&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=tatendacodespace&theme=dark)
 
 
 ## 🌍 Get in Touch:
@@ -31,9 +30,8 @@ I’m a **final-year software development student** passionate about building ap
 - 🌐 **Portfolio**: [https://tatendacodespace.github.io/Personal-Potfolio/]
 
 
-## Fun Facts About Me:
-- Currently building a mobile app with Kotlin for my portfolio
-- I tutor Grade 11 and 12 students in Computer Applications Technology (CAT)
+<img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width="100%" />
+
 
 
 
