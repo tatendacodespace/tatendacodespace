@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm **Tatenda Midzi** 👋
 
-<!--
-**tatendacodespace/tatendacodespace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **final-year software development student** passionate about building applications that make a difference. Currently diving deep into **backend development** with **Java** and **C#**, I aim to leverage my skills to create impactful and scalable solutions.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools I Use:
+- **Languages**: Java, C#, JavaScript, HTML, CSS, PHP
+- **Frameworks**: ASP.NET Core MVC, Flutter, React Native
+- **Databases**: MySQL, PostgreSQL, Oracle
+- **Tools**: Visual Studio, Android Studio, Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects:
+- **Expense Tracker App** (Kotlin, Android Studio)
+- **Personal Potfolio** (ASP.NET Core MVC)
+- **Ecommerce store** (HTML, CSS, JavaScript, SpringBoot)
+
+## 📈 GitHub Stats
+![Tatenda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tatendacodespace&show_icons=true&hide_title=true&count_private=true&theme=dark)
+
+## 🌍 Get in Touch:
+- 📧 **Email**: [tatendamidzi49@gmail.com]
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/tatenda-midzi-286421292/]
+- 🌐 **Portfolio**: [https://tatendacodespace.github.io/Personal-Potfolio/]
+
+## 🌐 Badges I Use:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+
+## Fun Facts About Me:
+- Currently building a mobile app with Kotlin for my portfolio
+- I tutor Grade 11 and 12 students in Computer Applications Technology (CAT)
+
+
+
