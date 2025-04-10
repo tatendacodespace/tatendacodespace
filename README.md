@@ -26,18 +26,6 @@ I’m a **final-year software development student** passionate about building ap
 - 💼 **LinkedIn**: [https://www.linkedin.com/in/tatenda-midzi-286421292/]
 - 🌐 **Portfolio**: [https://tatendacodespace.github.io/Personal-Potfolio/]
 
-## 🌐 Badges I Use:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-5C2D91?style=flat&logo=dotnet&logoColor=white)
-
-
 
 ## Fun Facts About Me:
 - Currently building a mobile app with Kotlin for my portfolio
