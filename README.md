@@ -41,10 +41,16 @@ I’m a **final-year software development student** passionate about building ap
 ![Anime Lover](https://img.shields.io/badge/I_%E2%9D%A4_Anime-E10098?style=for-the-badge&logo=Crunchyroll&logoColor=white)
 ![Always Learning](https://img.shields.io/badge/Always-Learning-FFCE00?style=for-the-badge&logo=Coursera&logoColor=black)
 
-- 🌸 I love watching anime — Naruto, AOT, Death Note, you name it!
+- 🌸 I love watching anime — Naruto, AOT, Death Note, One Piece you name it!
 - 🎮 I’m also into gaming when I’m not coding.
 - 🧱 Building software feels like crafting a jutsu.
 - ☕ I survive on coffee and shōnen energy.
+
+### 📺 Currently Watching
+- 🔥 **Devil May Cry**
+- 👺 **One Piece**
+- 🤖 Rewatching **Naruto**
+
 
 ---
 
@@ -53,19 +59,9 @@ I’m a **final-year software development student** passionate about building ap
 ### Thanks for stopping by! 👋  
 _"A person grows when they overcome hardships. Protection is important, but there are some things a person must learn on their own." – Jiraiya_
 
-![Naruto Run](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
+![Naruto Run](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2U2NmEzc2VvZ3dmZDR4eGI5ZXlmMmtxcnF0amczZWhxMHQ5dWYzdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XARctHXJvoIQP0rH3y/giphy.gif)
 
 </div>
-
-
-
-
-
-
-### 📺 Currently Watching
-- 🔥 **Devil May Cry**
-- 👺 **One Piece**
-- 🤖 Rewatching **Naruto**
 
 
 
