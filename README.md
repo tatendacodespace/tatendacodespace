@@ -18,8 +18,13 @@ I’m a **final-year software development student** passionate about building ap
 - **Personal Potfolio** (HTML, CSS JavaScript)
 - **Ecommerce store** (HTML, CSS, JavaScript, SpringBoot)
 
-## 📈 GitHub Stats
-![Tatenda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tatendacodespace&show_icons=true&hide_title=true&count_private=true&theme=dark)
+## 📊 GitHub Stats
+
+![Tatenda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tatendacodespace&show_icons=true&theme=dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatendacodespace&layout=compact&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=tatendacodespace&theme=dark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tatendacodespace&theme=darkhub&row=1&column=6)
+
 
 ## 🌍 Get in Touch:
 - 📧 **Email**: [tatendamidzi49@gmail.com]
