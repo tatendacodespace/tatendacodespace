@@ -46,6 +46,18 @@ I’m a **final-year software development student** passionate about building ap
 - 🧱 Building software feels like crafting a jutsu.
 - ☕ I survive on coffee and shōnen energy.
 
+---
+
+<div align="center">
+
+### Thanks for stopping by! 👋  
+_"A person grows when they overcome hardships. Protection is important, but there are some things a person must learn on their own." – Jiraiya_
+
+![Naruto Run](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
+
+</div>
+
+
 
 
 
