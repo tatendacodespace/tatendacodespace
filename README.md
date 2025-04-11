@@ -57,7 +57,7 @@ I’m a **final-year software development student** passionate about building ap
 <div align="center">
 
 ### Thanks for stopping by! 👋  
-_"A person grows when they overcome hardships. Protection is important, but there are some things a person must learn on their own." – Jiraiya_
+_A person grows when they overcome hardships. Protection is important, but there are some things a person must learn on their own. – Jiraiya_
 
 ![Naruto Run](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2U2NmEzc2VvZ3dmZDR4eGI5ZXlmMmtxcnF0amczZWhxMHQ5dWYzdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XARctHXJvoIQP0rH3y/giphy.gif)
 
