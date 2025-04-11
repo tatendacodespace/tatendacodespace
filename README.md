@@ -41,10 +41,9 @@ I’m a **final-year software development student** passionate about building ap
 ![Anime Lover](https://img.shields.io/badge/I_%E2%9D%A4_Anime-E10098?style=for-the-badge&logo=Crunchyroll&logoColor=white)
 ![Always Learning](https://img.shields.io/badge/Always-Learning-FFCE00?style=for-the-badge&logo=Coursera&logoColor=black)
 
-- 🌸 I love watching anime — Naruto, AOT, Death Note, One Piece you name it!
+- 🌸 I love watching anime — Naruto, AOT, Death Note, One Piece, you name it
 - 🎮 I’m also into gaming when I’m not coding.
-- 🧱 Building software feels like crafting a jutsu.
-- ☕ I survive on coffee and shōnen energy.
+- ☕ I survive on coffee
 
 ### 📺 Currently Watching
 - 🔥 **Devil May Cry**
