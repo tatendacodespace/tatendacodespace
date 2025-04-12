@@ -24,7 +24,7 @@ I’m a **final-year software development student** passionate about building ap
 - 🧠 Java OOP, Streams, Lambdas & Exception Handling
 - 🌱 Spring Boot (REST APIs, Security, CRUD apps)
 - 🐘 PostgreSQL integration with Spring
-- Kotlin
+- 📺 Kotlin
 
 
 
