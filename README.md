@@ -19,6 +19,14 @@ I’m a **final-year software development student** passionate about building ap
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
+## 🧪 Currently Sharpening My Skills In
+
+- 🧠 Java OOP, Streams, Lambdas & Exception Handling
+- 🌱 Spring Boot (REST APIs, Security, CRUD apps)
+- 🐘 PostgreSQL integration with Spring
+- Kotlin
+
+
 
 ## 🚀 Current Projects:
 - **Expense Tracker App** (Kotlin, Android Studio)
