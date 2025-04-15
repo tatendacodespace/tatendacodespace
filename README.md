@@ -4,20 +4,16 @@
 
 <h1 align="center">Yooo, I'm Tatenda 👋</h1>
 <p align="center">
-  🧑‍💻 Software Developer | 🎓 Final-Year Student 
+  🧑‍💻 Software Developer | Anime Enthusiast | Tech Explorer
 </p>
 
-I’m a **final-year software development student** passionate about building applications that make a difference. Currently diving deep into **backend development** with **Java** and **C#**, I aim to leverage my skills to create impactful and scalable solutions.
+I’m a **software developer** passionate about building applications that make a difference. Currently sharpening my backend skills in **Java** and **Spring Boot** while also working with **C#** and **ASP.NET Core MVC** to build scalable, clean-architecture projects.
 
 ## 🔧 Technologies & Tools I Use:
 - **Languages**:  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 - **Frameworks**: ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-5C2D91?style=flat&logo=dotnet&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 - **Databases**: ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-- **Tools**: ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-  ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+- **Tools**: ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
 ## 🧪 Currently Sharpening My Skills In
 
@@ -26,12 +22,10 @@ I’m a **final-year software development student** passionate about building ap
 - 🐘 PostgreSQL integration with Spring
 - 📺 Kotlin
 
-
-
 ## 🚀 Current Projects:
 - **Expense Tracker App** (Kotlin, Android Studio)
-- **Personal Potfolio** (HTML, CSS JavaScript)
-- **Ecommerce store** (HTML, CSS, JavaScript, SpringBoot)
+- **Personal Portfolio** (HTML, CSS JavaScript)
+- **Ecommerce Store** (HTML, CSS, JavaScript, Spring Boot)
 
 ## 📊 GitHub Stats
 
@@ -39,10 +33,9 @@ I’m a **final-year software development student** passionate about building ap
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatendacodespace&layout=compact&theme=dark)
 
 ## 🌍 Get in Touch:
-- 📧 **Email**: [tatendamidzi49@gmail.com]
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/tatenda-midzi-286421292/]
-- 🌐 **Portfolio**: [https://tatendacodespace.github.io/Personal-Potfolio/]
-
+- 📧 **Email**: [tatendamidzi49@gmail.com](mailto:tatendamidzi49@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/tatenda-midzi-286421292](https://www.linkedin.com/in/tatenda-midzi-286421292/)
+- 🌐 **Portfolio**: [tatendacodespace.github.io/Personal-Potfolio](https://tatendacodespace.github.io/Personal-Potfolio/)
 
 ### 🧠 Fun Facts About Me
 
@@ -58,7 +51,6 @@ I’m a **final-year software development student** passionate about building ap
 - 👺 **One Piece**
 - 🤖 Rewatching **Naruto**
 
-
 ---
 
 <div align="center">
@@ -69,7 +61,6 @@ _A person grows when they overcome hardships. Protection is important, but there
 ![Naruto Run](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2U2NmEzc2VvZ3dmZDR4eGI5ZXlmMmtxcnF0amczZWhxMHQ5dWYzdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XARctHXJvoIQP0rH3y/giphy.gif)
 
 </div>
-
 
 
 
