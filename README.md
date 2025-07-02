@@ -7,7 +7,7 @@
   🧑‍💻 Software Developer | Anime Enthusiast | Tech Explorer
 </p>
 
-I’m a **software developer** passionate about building applications that make a difference. Currently sharpening my backend skills in **Java** and **Spring Boot** while also working with **C#** and **ASP.NET Core MVC** to build scalable, clean-architecture projects.
+I’m a **software developer** passionate about building applications that make a difference. Currently sharpening my backend skills in **Java** and **Spring Boot**.
 
 ## 🔧 Technologies & Tools I Use:
 - **Languages**:  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
@@ -45,13 +45,6 @@ I’m a **software developer** passionate about building applications that make 
 - 🌸 I love watching anime — Naruto, AOT, Death Note, One Piece, you name it
 - 🎮 I’m also into gaming when I’m not coding.
 - ☕ I survive on coffee
-
-### 📺 Currently Watching
-- 🔥 **Devil May Cry**
-- 👺 **One Piece**
-- 🤖 Rewatching **Naruto**
-
----
 
 <div align="center">
 
