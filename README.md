@@ -7,25 +7,50 @@
   🧑‍💻 Software Developer | Anime Enthusiast | Tech Explorer
 </p>
 
-I’m a **software developer** passionate about building applications that make a difference. Currently sharpening my backend skills in **Java** and **Spring Boot**.
+---
 
-## 🔧 Technologies & Tools I Use:
-- **Languages**:  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-- **Frameworks**:  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-- **Databases**: ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-- **Tools**: ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+I'm a **software developer** passionate about building real-world applications that solve meaningful problems. Currently diving deep into **Java backend development**, with a focus on fintech and clean architecture.
 
-## 🧪 Currently Sharpening My Skills In
+### 💼 What I'm Working On:
+- Building fintech-aligned projects using **Java + Spring Boot**
+- Improving frontend skills with **Tailwind CSS** and **vanilla JavaScript**
+- Creating projects that simulate **real startup MVPs**
 
-- 🧠 Java OOP, Streams, Lambdas & Exception Handling
-- 🌱 Spring Boot (REST APIs, Security, CRUD apps)
-- 🐘 PostgreSQL integration with Spring
-- 📺 Kotlin
+---
 
-## 🌍 Get in Touch:
+## 🛠️ Tech Stack
+
+### 🧠 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
+### 🔧 Frameworks & Tools
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+
+---
+
+## 🚀 Currently Sharpening My Skills In:
+- Java OOP, Streams, Lambdas & Exception Handling
+- RESTful APIs with Spring Boot (CRUD, Security, JWT)
+- PostgreSQL integration and database design
+- Kotlin (for Android backend & mobile projects)
+
+---
+
+## 🌐 Let's Connect
+
 - 📧 **Email**: [tatendamidzi49@gmail.com](mailto:tatendamidzi49@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/tatenda-midzi-286421292](https://www.linkedin.com/in/tatenda-midzi-286421292/)
-- 🌐 **Portfolio**: [tatendacodespace.github.io/Personal-Potfolio](https://tatendacodespace.github.io/Personal-Potfolio/)
+- 🌍 **Portfolio**: [tatendacodespace.github.io/Personal-Potfolio](https://tatendacodespace.github.io/Personal-Potfolio/)
+
+---
 
 <div align="center">
 
