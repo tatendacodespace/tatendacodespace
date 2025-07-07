@@ -22,29 +22,10 @@ I’m a **software developer** passionate about building applications that make 
 - 🐘 PostgreSQL integration with Spring
 - 📺 Kotlin
 
-## 🚀 Current Projects:
-- **Expense Tracker App** (Kotlin, Android Studio)
-- **Personal Portfolio** (HTML, CSS JavaScript)
-- **Ecommerce Store** (HTML, CSS, JavaScript, Spring Boot)
-
-## 📊 GitHub Stats
-
-![Tatenda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tatendacodespace&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatendacodespace&layout=compact&theme=dark)
-
 ## 🌍 Get in Touch:
 - 📧 **Email**: [tatendamidzi49@gmail.com](mailto:tatendamidzi49@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/tatenda-midzi-286421292](https://www.linkedin.com/in/tatenda-midzi-286421292/)
 - 🌐 **Portfolio**: [tatendacodespace.github.io/Personal-Potfolio](https://tatendacodespace.github.io/Personal-Potfolio/)
-
-### 🧠 Fun Facts About Me
-
-![Anime Lover](https://img.shields.io/badge/I_%E2%9D%A4_Anime-E10098?style=for-the-badge&logo=Crunchyroll&logoColor=white)
-![Always Learning](https://img.shields.io/badge/Always-Learning-FFCE00?style=for-the-badge&logo=Coursera&logoColor=black)
-
-- 🌸 I love watching anime — Naruto, AOT, Death Note, One Piece, you name it
-- 🎮 I’m also into gaming when I’m not coding.
-- ☕ I survive on coffee
 
 <div align="center">
 
